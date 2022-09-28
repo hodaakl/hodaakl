@@ -7,4 +7,4 @@
 - 🙏🏼 I'm always happy to receive feedback on how to make my code better. If you try to apply any of my code and face difficulty, please reach out!
 - 📫 How to reach me: hodaakl@ufl.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My last name "AKL" is arabic for "mind" but the way native English speakers pronounce it is arabic for "Food". I think both of the meaning apply to 
+- ⚡ Fun fact: My last name "AKL" is Arabic for "mind" but the way native English speakers pronounce it, it sounds more like Arabic for "Food" (I think that's funny, but maybe that's just me.).
